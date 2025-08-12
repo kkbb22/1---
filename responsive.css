@@ -1,0 +1,10 @@
+r-default.sticky{
+		top: 0px !important;
+	}
+}
+
+@media (max-width: 768px) {
+	body.single_layout_2.has_single_page_image header#masthead{
+		border-bottom: none !important;
+	}
+}
